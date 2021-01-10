@@ -45,6 +45,7 @@ body {
   font-weight: 700;
   line-height: 24px;
   color: #ffffff;
+  margin: 10px;
 }
 .contacts-link {
   color: #ff6b08;
@@ -66,6 +67,21 @@ body {
 
 .social-networks-item {
  color: white;
+}
+.skype {
+  color: #ffffff;
+}
+.social-networks-link {
+ color: white;
+}
+
+a {
+  text-decoration: none;
+  /*color: white;*/
+}
+a:hover {
+  text-decoration: underline;
+  text-decoration-color: #ff6b08;
 }
 
 .tech-skills-title {
